@@ -156,7 +156,7 @@
       "name": "ORANGE BANK",
       "children": [
         {
-          "name": "STAGAIRES",
+          "name": "Assistance Technique",
           "children": [
             {
               "name": "TUEKAM Denis"
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "name": "ORANGE Build",
+      "name": "ORANGE BUILD",
       "children": [
         {
           "name": "Backbase",
@@ -237,6 +237,51 @@
             },
             {
               "name": "TRIGUI Zine Soufien"
+            },
+            {
+              "name": "BEAUME Sébastien"
+            },
+            {
+              "name": "WABO NOUBISSI Fabrice"
+            },
+            {
+              "name": "CHOCHON Jeremy"
+            },
+            {
+              "name": "Souad Kadri"
+            },
+            {
+              "name": "Mohamed SAFI"
+            },
+            {
+              "name": "MANORANJITHAN Janany"
+            },
+            {
+              "name": "Antoine Frère"
+            },
+            {
+              "name": "CHALI Yanis"
+            },
+            {
+              "name": "DJIBO Yacouba"
+            },
+            {
+              "name": "BOUKASSEM Yassine"
+            },
+            {
+              "name": "POITE Guillaume"
+            },
+            {
+              "name": "BOUNOUAR Sonia"
+            },
+            {
+              "name": "CRENDAL Cécile"
+            },
+            {
+              "name": "TOISON Nicolas"
+            },
+            {
+              "name": "AMZAL FLORA"
             }
           ]
         }
@@ -443,12 +488,7 @@
             },
             {
               "name": "LAMENTA Théo"
-            }
-          ]
-        },
-        {
-          "name": "CRM AGENTS - STAGIAIRE",
-          "children": [
+            },
             {
               "name": "Medhi LAKBIR"
             }
@@ -491,12 +531,7 @@
             },
             {
               "name": "THORR Antoine"
-            }
-          ]
-        },
-        {
-          "name": "CALF-STAGIAIRE",
-          "children": [
+            },
             {
               "name": "Khalid ELMESSOUDI"
             },
@@ -591,62 +626,7 @@
       ]
     },
     {
-      "name": "ORANGE build",
-      "children": [
-        {
-          "name": "Backbase",
-          "children": [
-            {
-              "name": "BEAUME Sébastien"
-            },
-            {
-              "name": "WABO NOUBISSI Fabrice"
-            },
-            {
-              "name": "CHOCHON Jeremy"
-            },
-            {
-              "name": "Souad Kadri"
-            },
-            {
-              "name": "Mohamed SAFI"
-            },
-            {
-              "name": "MANORANJITHAN Janany"
-            },
-            {
-              "name": "Antoine Frère"
-            },
-            {
-              "name": "CHALI Yanis"
-            },
-            {
-              "name": "DJIBO Yacouba"
-            },
-            {
-              "name": "BOUKASSEM Yassine"
-            },
-            {
-              "name": "POITE Guillaume"
-            },
-            {
-              "name": "BOUNOUAR Sonia"
-            },
-            {
-              "name": "CRENDAL Cécile"
-            },
-            {
-              "name": "TOISON Nicolas"
-            },
-            {
-              "name": "AMZAL FLORA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "suressnes",
+      "name": "SURESSNES",
       "children": [
         {
           "name": "Management",
@@ -675,54 +655,13 @@
               "name": "GARCIA Alexandre"
             },
             {
-              "name": "TEKA CHENJOU"
-            },
-            {
-              "name": "Franklin Diego"
+              "name": "TEKA CHENJOU Franklin Diego"
             },
             {
               "name": "ASSANI Chaima"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "SET",
-      "children": [
-        {
-          "name": "Multiprojet",
-          "children": [
-            {
-              "name": "CAILLY bastien"
-            },
-            {
-              "name": "Jean-luc Antoine E SF"
-            },
-            {
-              "name": "LE HENAFF Jean-Pierre E AR"
-            },
-            {
-              "name": "LEJAY Jean-Louis"
-            }
-          ]
         },
-        {
-          "name": "Assistance Technique",
-          "children": [
-            {
-              "name": "MOREL D'ARLEUX Thierry"
-            },
-            {
-              "name": "FERNANDES"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "SURESSNES",
-      "children": [
         {
           "name": "Interco",
           "children": [
@@ -761,6 +700,39 @@
             },
             {
               "name": "VIRION Félix"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SET",
+      "children": [
+        {
+          "name": "Multiprojet",
+          "children": [
+            {
+              "name": "CAILLY bastien"
+            },
+            {
+              "name": "Jean-luc Antoine E SF"
+            },
+            {
+              "name": "LE HENAFF Jean-Pierre E AR"
+            },
+            {
+              "name": "LEJAY Jean-Louis"
+            }
+          ]
+        },
+        {
+          "name": "Assistance Technique",
+          "children": [
+            {
+              "name": "MOREL D'ARLEUX Thierry"
+            },
+            {
+              "name": "FERNANDES"
             }
           ]
         }
@@ -855,12 +827,7 @@
           "children": [
             {
               "name": "KTARI Dhia"
-            }
-          ]
-        },
-        {
-          "name": "CACEIS - Stagiaire",
-          "children": [
+            },
             {
               "name": "NANITELIAMO Arnold"
             }
@@ -878,10 +845,7 @@
               "name": "PERIGAULT Erwan D"
             },
             {
-              "name": "Raoul Hippolyte"
-            },
-            {
-              "name": "NZALI KOUONTCHOU"
+              "name": "NZALI KOUONTCHOU Raoul Hippolyte"
             },
             {
               "name": "CERUTI Philippe"
@@ -950,12 +914,7 @@
             },
             {
               "name": "MERABTI Ibrahim"
-            }
-          ]
-        },
-        {
-          "name": "SALESFORCE- STAGIARE",
-          "children": [
+            },
             {
               "name": "LE VAN Thien-an"
             }
