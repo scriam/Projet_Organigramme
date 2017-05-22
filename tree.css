@@ -1,0 +1,40 @@
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 15px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+
+}
+
+.img:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:200px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+/*.img-container {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	overflow: hidden;
+}
+.img-container img {
+	width: 100%;
+}*/
